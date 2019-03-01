@@ -7,5 +7,5 @@
 
 #### To use this api, provide the url parameters as below
 
-(url/api/search/?location=location&metric=metric&sdate=YYYY-MM&edate=YYYY-MM)
+`url/api/search/?location=location&metric=metric&sdate=YYYY-MM&edate=YYYY-MM`
 
