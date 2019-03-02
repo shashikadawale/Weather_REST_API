@@ -1,11 +1,11 @@
 ## REST API for Weather data
 
-#### This api includes a django management command tool 'fetch_weather' which will fetch the data from urls and add data to the database.
+#### This API includes a Django management command tool 'fetch_weather' which fetches the data from URLs add data to the database.
 
-#### Use django management command tool as 
+#### Use Django management command tool as 
 `python manage.py fetch_weather`
 
-#### To use this api, provide the url parameters as below
+#### To use this API, provide the URL parameters as below
 
 `api/search/?location=location&metric=metric&sdate=YYYY-MM&edate=YYYY-MM`
 
